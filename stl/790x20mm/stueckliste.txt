@@ -1,0 +1,13 @@
+Tuerschwellenrampe fuer Saugroboter – Stueckliste
+==================================================
+Gesamtbreite : 790,0 mm
+Schwelle     : 20,0 mm hoch
+Rampe        : 89,4 mm tief, Steigung 12,0 Grad, Vorderkante 1,0 mm
+Segmente     : 4 x 197,5 mm  (+ 12,0 mm Zapfen ueberstehend)
+
+  1 x  rampe_anfangsteil.stl      189,6 cm3
+  2 x  rampe_mittelteil.stl       185,1 cm3
+  1 x  rampe_endteil.stl          180,9 cm3
+
+Pro Tuerseite einmal drucken. Soll der Roboter von beiden Seiten ueber die Schwelle,
+alles doppelt drucken. Teile flach mit der Unterseite aufs Bett legen, kein Stuetzmaterial.
