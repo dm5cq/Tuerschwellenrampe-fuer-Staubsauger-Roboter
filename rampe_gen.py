@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
 Tuerschwellenrampe fuer Staubsauger-/Saugroboter – Generator fuer druckfertige STL-Dateien
-Autor: Stefan J. Kaiser DM5CQ / OE8KKS
+Idee, Design und Umsetzung: Simon Kaiser
+Veroeffentlicht von Stefan J. Kaiser DM5CQ / OE8KKS
 Lizenz: CC BY-NC-SA 4.0 (siehe LICENSE.md)
 
 Die Rampe besteht aus gleich breiten Segmenten, die ueber eine Schwalbenschwanz-Verbindung
@@ -215,7 +216,7 @@ def main(argv=None):
         if not pruefe_dicht(tris):
             sys.exit(f"Fehler: Netz fuer {name} ist nicht geschlossen.")
         datei = f"rampe_{name.lower()}.stl"
-        schreibe_stl(os.path.join(out, datei), tris, f"Tuerschwellenrampe {name} DM5CQ CC BY-NC-SA 4.0")
+        schreibe_stl(os.path.join(out, datei), tris, f"Tuerschwellenrampe {name} Simon Kaiser CC BY-NC-SA 4.0")
         zeilen.append(f"{anzahl:>3} x  {datei:<26} {fmt(volumen(tris) / 1000)} cm3")
     zeilen += ["", "Pro Tuerseite einmal drucken. Soll der Roboter von beiden Seiten ueber die Schwelle,",
                "alles doppelt drucken. Teile flach mit der Unterseite aufs Bett legen, kein Stuetzmaterial."]

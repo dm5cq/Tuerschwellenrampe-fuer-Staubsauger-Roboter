@@ -1,5 +1,6 @@
 // Türschwellenrampe für Saugroboter – anpassbar (OpenSCAD-Customizer)
-// Autor: Stefan J. Kaiser DM5CQ / OE8KKS
+// Idee, Design und Umsetzung: Simon Kaiser
+// Veröffentlicht von Stefan J. Kaiser DM5CQ / OE8KKS
 // Lizenz: CC BY-NC-SA 4.0 (siehe LICENSE.md)
 //
 // In OpenSCAD: Fenster > Customizer einblenden, Werte eintragen, "teil" wählen,

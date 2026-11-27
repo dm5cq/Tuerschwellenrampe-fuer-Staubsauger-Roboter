@@ -1,6 +1,6 @@
 # Lizenz / License
 
-**Türschwellenrampe für Staubsauger-Roboter** – © 2026 Stefan J. Kaiser DM5CQ / OE8KKS
+**Türschwellenrampe für Staubsauger-Roboter** – © 2026 Simon Kaiser (Idee, Design und Umsetzung), veröffentlicht von Stefan J. Kaiser DM5CQ / OE8KKS
 
 Dieses Werk (STL-Dateien, Generator `rampe_gen.py`, OpenSCAD-Datei `tuerschwellenrampe.scad`, Bilder und Dokumentation) ist lizenziert unter der
 **Creative Commons Namensnennung – Nicht-kommerziell – Weitergabe unter gleichen Bedingungen 4.0 International
@@ -13,7 +13,7 @@ This work is licensed under the **Creative Commons Attribution-NonCommercial-Sha
 
 Kurz gesagt – Sie dürfen das Material nachbauen, vervielfältigen, weitergeben und verändern, unter folgenden Bedingungen:
 
-- **Namensnennung (BY):** Urheber „Stefan J. Kaiser DM5CQ / OE8KKS“ nennen, Link zur Lizenz angeben und kenntlich machen, ob Änderungen vorgenommen wurden.
+- **Namensnennung (BY):** Urheber „Simon Kaiser“ nennen, Link zur Lizenz angeben und kenntlich machen, ob Änderungen vorgenommen wurden.
 - **Nicht kommerziell (NC):** keine Nutzung für kommerzielle Zwecke (z. B. kein Verkauf gedruckter Teile oder der Dateien).
 - **Weitergabe unter gleichen Bedingungen (SA):** veränderte Fassungen nur unter derselben Lizenz weitergeben.
 

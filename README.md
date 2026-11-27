@@ -4,7 +4,7 @@
 gleich breiten Segmenten, die per **Schwalbenschwanz von oben zusammengesteckt** werden. So passt jedes
 Teil auf ein normales Druckbett, und die Rampe lässt sich auf **jede Türbreite und Schwellenhöhe** anpassen.
 
-Autor: **Stefan J. Kaiser DM5CQ / OE8KKS** · Konstruktion mit Unterstützung von Claude (Anthropic)
+Idee, Design und Umsetzung: **Simon Kaiser** · Veröffentlicht von Stefan J. Kaiser DM5CQ / OE8KKS · Generator mit Unterstützung von Claude (Anthropic)
 
 ![Vorschau](bilder/rampe_vorschau.png)
 
@@ -70,7 +70,7 @@ Rampe und wächst mit der Rampentiefe mit.
 ## Lizenz
 
 **CC BY-NC-SA 4.0** – siehe [`LICENSE.md`](LICENSE.md). Nachbauen und Verändern sind erlaubt, mit Namensnennung
-„Stefan J. Kaiser DM5CQ / OE8KKS“. **Keine kommerzielle Nutzung** (kein Verkauf gedruckter Teile oder der Dateien).
+„Simon Kaiser“. **Keine kommerzielle Nutzung** (kein Verkauf gedruckter Teile oder der Dateien).
 Veränderte Fassungen nur unter derselben Lizenz weitergeben.
 
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/Lizenz-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
